@@ -1,6 +1,6 @@
 ﻿using BulkyWeb.DataAccess.Data;
 using BulkyWeb.DataAccess.Repository.IRepository;
-using BulkyWeb.Models.Models;
+using BulkyWeb.Models;
 
 namespace BulkyWeb.DataAccess.Repository
 {
